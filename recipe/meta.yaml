@@ -37,3 +37,5 @@ extra:
   recipe-maintainers:
     - pmlandwehr
     - ocefpaf
+  anaconda:
+    reason: Top 5000 downloads from pypi
