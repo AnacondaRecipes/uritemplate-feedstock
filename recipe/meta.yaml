@@ -42,7 +42,7 @@ about:
   license_file: LICENSE
   summary: Implementation of RFC 6570 URI Templates
   description: Simple python library to deal with URI Templates.
-  dev_url: https://github.com/python-hyper/uritemplate/tree/4.1.1
+  dev_url: https://github.com/python-hyper/uritemplate/
   doc_url: https://uritemplate.readthedocs.io
 
 extra:
